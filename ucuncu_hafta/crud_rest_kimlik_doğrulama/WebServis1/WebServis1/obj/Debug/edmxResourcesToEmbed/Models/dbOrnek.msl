@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbOrnekModelStoreContainer" CdmEntityContainer="dbOrnekEntities">
+    <EntitySetMapping Name="KullaniciBilgisi">
+      <EntityTypeMapping TypeName="dbOrnekModel.KullaniciBilgisi">
+        <MappingFragment StoreEntitySet="KullaniciBilgisi">
+          <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

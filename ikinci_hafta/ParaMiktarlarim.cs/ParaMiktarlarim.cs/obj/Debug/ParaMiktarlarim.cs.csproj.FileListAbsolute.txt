@@ -1,0 +1,20 @@
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\bin\Debug\ParaMiktarlarim.cs.exe.config
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\bin\Debug\ParaMiktarlarim.cs.exe
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\bin\Debug\ParaMiktarlarim.cs.pdb
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.csprojAssemblyReference.cache
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.Form1.resources
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.Properties.Resources.resources
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.csproj.GenerateResource.cache
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.csproj.CoreCompileInputs.cache
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.exe
+D:\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.pdb
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\bin\Debug\ParaMiktarlarim.cs.exe.config
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\bin\Debug\ParaMiktarlarim.cs.exe
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\bin\Debug\ParaMiktarlarim.cs.pdb
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.csprojAssemblyReference.cache
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.Form1.resources
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.Properties.Resources.resources
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.csproj.GenerateResource.cache
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.csproj.CoreCompileInputs.cache
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.exe
+D:\Türksat Projeler\ikinci_hafta\ParaMiktarlarim.cs\ParaMiktarlarim.cs\obj\Debug\ParaMiktarlarim.cs.pdb

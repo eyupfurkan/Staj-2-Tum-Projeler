@@ -1,0 +1,8 @@
+veritabaný dbOrnek
+
+tablo KullaniciBilgisi
+KullaniciID varchar(10),
+KullaniciAdi varchar(20),
+Adres varchar(50),
+
+Ayný klasörde sql dosyasý da var. Veritabaný kodlarýný yazdým.

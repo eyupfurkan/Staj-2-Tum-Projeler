@@ -1,0 +1,12 @@
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\WebApiClient.exe.config
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\WebApiClient.exe
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\WebApiClient.pdb
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\obj\Debug\WebApiClient.csprojAssemblyReference.cache
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\obj\Debug\WebApiClient.csproj.CoreCompileInputs.cache
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\obj\Debug\WebApiClient.csproj.CopyComplete
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\obj\Debug\WebApiClient.exe
+D:\Ucuncu_hafta\WebApiClient\WebApiClient\obj\Debug\WebApiClient.pdb
